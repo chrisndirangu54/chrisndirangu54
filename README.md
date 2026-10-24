@@ -33,6 +33,20 @@ Building intelligent digital products across **AI, software engineering, data sc
 
 ---
 
+## 🎨 Visual Engineering Playground
+
+<div align="center">
+
+<img src="assets/open-source-robot-lab.svg" width="100%" alt="Two cheerful open-source robots around a glowing code editor"/>
+
+*Original MIT-licensed vector illustration: two cartoon developer bots, coding terminals, animated indicator lights, and circuit connections.*
+
+</div>
+
+Explore the [open-source illustration assets](assets/) and [play Circuit Quest](https://htmlpreview.github.io/?https://github.com/chrisndirangu54/chrisndirangu54/blob/main/games/circuit-quest/index.html). This profile pairs professional engineering and technology community work with playful, accessible experiments.
+
+---
+
 ## 👨‍💻 About Me
 
 I am a multidisciplinary technology professional working across **artificial intelligence, software engineering, data science, mobile development, cloud computing, enterprise systems, automation, and digital innovation**.
