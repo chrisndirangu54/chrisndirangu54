@@ -25,44 +25,10 @@ Building intelligent digital products across **AI, software engineering, data sc
 
 <div align="center">
 
-<img src="assets/innovation-orbit.svg" width="95%" alt="Open-source animated diagram connecting research, software, data and community"/>
+<img src="assets/innovation-orbit.svg" width="95%" alt="Animated connections between research, software, data and community"/>
 
-*Original open-source vector illustrations and lightweight SVG animations, created for this profile.*
-
-</div>
-
----
-
-## 🎨 Visual Engineering Playground
-
-<div align="center">
-
-<img src="assets/open-source-robot-lab.svg" width="100%" alt="Two cheerful open-source robots around a glowing code editor"/>
-
-*Original MIT-licensed vector illustration: two cartoon developer bots, coding terminals, animated indicator lights, and circuit connections.*
 
 </div>
-
-Explore the [open-source illustration assets](assets/) and [play Circuit Quest](https://htmlpreview.github.io/?https://github.com/chrisndirangu54/chrisndirangu54/blob/main/games/circuit-quest/index.html). This profile pairs professional engineering and technology community work with playful, accessible experiments.
-
----
-
-### 🖼️ More original cartoon and technology art
-
-<div align="center">
-<table><tr><td width="50%"><img src="assets/cartoon-ai-research-lab.svg" alt="Cartoon AI research laboratory with a friendly robot" width="100%"/></td><td width="50%"><img src="assets/cartoon-geoai-earth.svg" alt="Illustrated GeoAI earth and satellite" width="100%"/></td></tr><tr><td colspan="2"><img src="assets/cartoon-game-dev-world.svg" alt="Playful pixel-inspired game development cartoon" width="100%"/></td></tr></table>
-
-**Free to reuse:** All three illustrations are original SVG files provided under this repository's [MIT License](LICENSE). No third-party stock images or copyright-restricted character art are used.
-
-</div>
-
----
-
-### 🌍 More original artwork — technology in action
-
-<table><tr><td width="50%"><img src="assets/cybersecurity-guardian.svg" width="100%" alt="Cybersecurity guardian shield illustration"/></td><td width="50%"><img src="assets/robotics-makerspace.svg" width="100%" alt="Open-source robotics makerspace cartoon"/></td></tr><tr><td><img src="assets/cloud-connected-world.svg" width="100%" alt="Connected cloud software systems"/></td><td><img src="assets/africa-innovation.svg" width="100%" alt="African technology innovation illustrated map"/></td></tr></table>
-
-*Custom SVG illustrations created for this repository, covered by its [MIT License](LICENSE). Hover-free, lightweight artwork with accessible descriptions; some illustrations include subtle animations.*
 
 ---
 
@@ -122,6 +88,8 @@ Research → Design → Build → Test → Deploy → Learn → Improve
 </p>
 
 ---
+
+<p align="center"><img src="assets/cartoon-ai-research-lab.svg" alt="AI experiments and machine learning workflows" width="85%"/></p>
 
 ## Artificial Intelligence & Data Science
 
@@ -193,6 +161,8 @@ Research → Design → Build → Test → Deploy → Learn → Improve
 </p>
 
 ---
+
+<p align="center"><img src="assets/cloud-connected-world.svg" alt="Interconnected cloud applications and services" width="85%"/></p>
 
 ## Cloud & DevOps
 
@@ -282,6 +252,8 @@ The platform explores a modular approach to business applications, allowing orga
 
 ---
 
+<p align="center"><img src="assets/cybersecurity-guardian.svg" alt="Connected systems protected by a security shield" width="85%"/></p>
+
 ## 💻 TeknTandao
 
 ### Technology for Businesses and Connected Environments
@@ -318,6 +290,8 @@ Its work spans digital systems as well as ICT infrastructure.
 
 # 🌐 Community & Technology Leadership
 
+<p align="center"><img src="assets/robotics-makerspace.svg" alt="Robotics and hands-on technology learning" width="85%"/></p>
+
 ## 🇺🇸 Tech Lead — American Corner Mtaani
 
 I serve as **Tech Lead at American Corner Mtaani**, contributing to technology-driven programming, innovation activities, technical learning, and community engagement.
@@ -334,6 +308,8 @@ My interests in this role include:
 - Practical technology experimentation
 
 ---
+
+<p align="center"><img src="assets/africa-innovation.svg" alt="Technology collaboration and innovation across Africa" width="85%"/></p>
 
 ## ⚡ Founder — Techruptors
 
@@ -363,6 +339,8 @@ Areas of interest include:
 
 ---
 
+<p align="center"><img src="assets/cartoon-game-dev-world.svg" alt="A coding terminal and arcade game character" width="85%"/></p>
+
 # 🎮 Open-Source Playground
 
 <div align="center">
@@ -372,13 +350,15 @@ Areas of interest include:
 [![Play Circuit Quest](https://img.shields.io/badge/🎮_Play-Circuit_Quest-7C3AED?style=for-the-badge)](https://htmlpreview.github.io/?https://github.com/chrisndirangu54/chrisndirangu54/blob/main/games/circuit-quest/index.html)
 [![Browse game source](https://img.shields.io/badge/Source-MIT_Licensed-22C55E?style=for-the-badge)](games/circuit-quest/index.html)
 
-<img src="assets/innovation-orbit.svg" width="90%" alt="Animated open source innovation orbital diagram"/>
+<img src="assets/innovation-orbit.svg" width="90%" alt="Animated innovation orbital diagram"/>
 
 </div>
 
 > The game preview uses the third-party HTMLPreview service to render the standalone HTML file. All game code and art are in this repository; no third-party JavaScript or game assets are required. GitHub README pages cannot execute embedded JavaScript games.
 
 ---
+
+<p align="center"><img src="assets/open-source-robot-lab.svg" alt="Robotic coding companions experimenting with software" width="85%"/></p>
 
 # 🧪 Public GitHub Exploration
 
@@ -448,6 +428,10 @@ This distinction matters to me: open-source exploration is a way to understand s
 </table>
 
 ---
+
+<p align="center"><img src="assets/cartoon-geoai-earth.svg" alt="Satellite observation and geospatial analysis of Earth" width="85%"/></p>
+
+**GeoAI and Earth observation** are among the areas where I connect data science with applied technology.
 
 # 🧭 What I Like Building
 
