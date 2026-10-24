@@ -47,6 +47,17 @@ Explore the [open-source illustration assets](assets/) and [play Circuit Quest](
 
 ---
 
+### 🖼️ More original cartoon and technology art
+
+<div align="center">
+<table><tr><td width="50%"><img src="assets/cartoon-ai-research-lab.svg" alt="Cartoon AI research laboratory with a friendly robot" width="100%"/></td><td width="50%"><img src="assets/cartoon-geoai-earth.svg" alt="Illustrated GeoAI earth and satellite" width="100%"/></td></tr><tr><td colspan="2"><img src="assets/cartoon-game-dev-world.svg" alt="Playful pixel-inspired game development cartoon" width="100%"/></td></tr></table>
+
+**Free to reuse:** All three illustrations are original SVG files provided under this repository's [MIT License](LICENSE). No third-party stock images or copyright-restricted character art are used.
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 I am a multidisciplinary technology professional working across **artificial intelligence, software engineering, data science, mobile development, cloud computing, enterprise systems, automation, and digital innovation**.
