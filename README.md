@@ -58,6 +58,14 @@ Explore the [open-source illustration assets](assets/) and [play Circuit Quest](
 
 ---
 
+### 🌍 More original artwork — technology in action
+
+<table><tr><td width="50%"><img src="assets/cybersecurity-guardian.svg" width="100%" alt="Cybersecurity guardian shield illustration"/></td><td width="50%"><img src="assets/robotics-makerspace.svg" width="100%" alt="Open-source robotics makerspace cartoon"/></td></tr><tr><td><img src="assets/cloud-connected-world.svg" width="100%" alt="Connected cloud software systems"/></td><td><img src="assets/africa-innovation.svg" width="100%" alt="African technology innovation illustrated map"/></td></tr></table>
+
+*Custom SVG illustrations created for this repository, covered by its [MIT License](LICENSE). Hover-free, lightweight artwork with accessible descriptions; some illustrations include subtle animations.*
+
+---
+
 ## 👨‍💻 About Me
 
 I am a multidisciplinary technology professional working across **artificial intelligence, software engineering, data science, mobile development, cloud computing, enterprise systems, automation, and digital innovation**.
