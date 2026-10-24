@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/tech-hero.svg" alt="Illustrated technology banner: Build what matters" width="100%"/>
+
 # 👋 Hi, I'm Chris Mwangi Ndirangu
 
 ### AI Engineer • Software Engineer • Data Scientist • Technology Builder
@@ -15,6 +17,17 @@ Building intelligent digital products across **AI, software engineering, data sc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chris%20Mwangi-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chris-mwangi-abb36615b/)
 [![TeknTandao](https://img.shields.io/badge/TeknTandao-Technology-111827?style=for-the-badge)](https://www.tekntandao.com)
 [![Sokonis](https://img.shields.io/badge/Sokonis-AI%20Commerce-16A34A?style=for-the-badge)](https://sokonis.shop)
+[![TechRuptors](https://img.shields.io/badge/TechRuptors-Community-7C3AED?style=for-the-badge)](https://techruptors-africa.web.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="assets/innovation-orbit.svg" width="95%" alt="Open-source animated diagram connecting research, software, data and community"/>
+
+*Original open-source vector illustrations and lightweight SVG animations, created for this profile.*
 
 </div>
 
@@ -228,6 +241,12 @@ The platform explores a modular approach to business applications, allowing orga
 
 > Building simpler ways for businesses to adopt and connect technology.
 
+<details><summary>🔗 Alternative TeknTandao Firebase deployment</summary>
+
+[Open TeknTandao on Firebase Hosting](https://tekntandao.web.app/). This is an alternative public deployment; the primary website remains [tekntandao.com](https://www.tekntandao.com/).
+
+</details>
+
 ---
 
 ## 💻 TeknTandao
@@ -285,6 +304,8 @@ My interests in this role include:
 
 ## ⚡ Founder — Techruptors
 
+🌐 **[Explore the TechRuptors community website](https://techruptors-africa.web.app/)**
+
 **Techruptors** is a technology community built around curiosity, experimentation, innovation, collaboration, and practical learning.
 
 The community creates opportunities for people interested in technology to:
@@ -306,6 +327,23 @@ INNOVATE
 Areas of interest include:
 
 `AI` • `Software Development` • `Data Science` • `Robotics` • `VR` • `3D Technology` • `Entrepreneurship` • `Emerging Tech`
+
+---
+
+# 🎮 Open-Source Playground
+
+<div align="center">
+
+**Circuit Quest** is a tiny, zero-dependency browser arcade game: catch green data nodes, dodge red glitches, and earn points. Supports keyboard and touch input.
+
+[![Play Circuit Quest](https://img.shields.io/badge/🎮_Play-Circuit_Quest-7C3AED?style=for-the-badge)](https://htmlpreview.github.io/?https://github.com/chrisndirangu54/chrisndirangu54/blob/main/games/circuit-quest/index.html)
+[![Browse game source](https://img.shields.io/badge/Source-MIT_Licensed-22C55E?style=for-the-badge)](games/circuit-quest/index.html)
+
+<img src="assets/innovation-orbit.svg" width="90%" alt="Animated open source innovation orbital diagram"/>
+
+</div>
+
+> The game preview uses the third-party HTMLPreview service to render the standalone HTML file. All game code and art are in this repository; no third-party JavaScript or game assets are required. GitHub README pages cannot execute embedded JavaScript games.
 
 ---
 
