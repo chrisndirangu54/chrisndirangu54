@@ -479,6 +479,17 @@ I am especially interested in projects where different technical fields converge
 
 </div>
 
+<p align="center">
+<!-- commits.sh:profile:start -->
+<a href="https://commits.sh/chrisndirangu54">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://commits.sh/api/badge?handle=chrisndirangu54&amp;style=card&amp;theme=light&amp;v=52w1" />
+    <img src="https://commits.sh/api/badge?handle=chrisndirangu54&amp;style=card&amp;theme=dark&amp;v=52w1" alt="chrisndirangu54's public GitHub activity on commits.sh" width="480" />
+  </picture>
+</a>
+<!-- commits.sh:profile:end -->
+</p>
+
 ---
 
 # 🏆 GitHub Profile
